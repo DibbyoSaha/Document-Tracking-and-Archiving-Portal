@@ -24,6 +24,7 @@ File Upload: Multer
 # ⚙️ Installation
 
 🔹 Backend Setup
+
 1️⃣ Navigate to backend folder:
 cd backend
 
@@ -38,6 +39,7 @@ PORT=5000
 node server.js
 
 🔹 Frontend Setup
+
 1️⃣ Navigate to frontend folder:
 cd frontend
 
