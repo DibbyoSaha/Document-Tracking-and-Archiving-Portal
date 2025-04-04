@@ -1,6 +1,4 @@
 # Document Tracking and Archiving Portal
-
-## Overview
 This is a **full-stack web application** for tracking and archiving documents. Users can **upload documents, search files, update status, and view uploaded files.**
 
 ### Tech Stack
